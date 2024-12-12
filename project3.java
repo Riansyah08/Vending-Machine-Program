@@ -290,8 +290,8 @@ public class project3 {
                     return;
                 }
 
-                String[][][] foods2 = {{{"Sugary Food"}, {"1. Cinnamon Roll - $10"}, {"2. Choco Brownies - $15"}, {"3. Red Velvet - $16"}}, 
-                {{"4. Cheese Cake - $15"}, {"5. Classic Tiramisu - $17"}, {"6. Classic Pancake - $10"}}};
+                String[][][] foods2 = {{{"Sugary Food"}, {"1. Cinnamon Roll - $10"}, {"2. Choco Brownies - $15"}, {"3. Red Velvet - $16"}, 
+                {"4. Cheese Cake - $15"}, {"5. Classic Tiramisu - $17"}, {"6. Classic Pancake - $10"}}};
 
                 int t = 0;
                 while (t < foods2.length) {
