@@ -1,5 +1,28 @@
-This is a University final project of Programming Concept course, with a group consist of three people, 
-where we use java and do the programming on Visual Studio Code.
-in this project we make a Vending machine program where you can insert the amount of money and then choose the drinks or food that you want to buy, 
-when the amount of money is less than 0 or less than the price of the drink or food that you want to buy, it will inform you that your amount is not enough and you can't buy it,
-but if the amount is sufficient or more than the price needed then you can continue till the end of the program.
+# 🧃 Vending Machine Program – Final Project for Programming Concept
+This repository contains our **University Final Project** for the **Programming Concept** course, developed by a group of three students using **Java** in **Visual Studio Code**.
+
+### 📌 Project Overview
+We built a **console-based Vending Machine application** that allows users to:
+- 💰 Insert money
+- 🍽️ Choose from a list of drinks or food
+- ❌ Get notified if the balance is insufficient
+- ✅ Successfully purchase an item if the balance is enough
+- 🔁 Continue purchasing until funds are depleted or the program ends
+
+### 💻 Technologies Used
+- Java
+- Visual Studio Code
+
+### 🧪 How It Works
+1. User inputs an amount of money.
+2. Program displays available items with their prices.
+3. User selects an item.
+4. The program:
+  - Checks if the balance is sufficient
+  - Proceeds with the purchase or displays an error
+  - Loops for the next action
+
+### 🚀 How to Run
+1. Clone the repository
+2. Open it in Visual Studio Code or any Java IDE
+3. Compile and run the Main.java
