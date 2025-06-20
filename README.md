@@ -25,4 +25,4 @@ We built a **console-based Vending Machine application** that allows users to:
 ### 🚀 How to Run
 1. Clone the repository
 2. Open it in Visual Studio Code or any Java IDE
-3. Compile and run the Main.java
+3. Compile and run the Project3.java
